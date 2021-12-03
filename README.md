@@ -1,7 +1,6 @@
 # levels
 
-![levels0](https://user-images.githubusercontent.com/53159393/144647731-c6fd1fca-1991-41cc-a3cd-a441a1de0e96.png)
 
-![levels1](https://user-images.githubusercontent.com/53159393/144647738-9d1963c1-2401-47e3-b60e-bbe14aebfbf0.png)
-
-![levels2](https://user-images.githubusercontent.com/53159393/144647791-8f694cfb-144b-42ba-be04-4b4d20037568.png)
+![levels0](https://user-images.githubusercontent.com/53159393/144648152-c3d4e408-0e6b-45fb-b7a7-04c3f6d38a05.png)
+![levels1](https://user-images.githubusercontent.com/53159393/144648161-8bb18045-6a9c-4c95-8b4a-27a4d244d84e.png)
+![levels2](https://user-images.githubusercontent.com/53159393/144648165-d495eb08-95cf-4604-9d23-048f31ce9ebe.png)
