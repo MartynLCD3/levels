@@ -1,6 +1,6 @@
 # levels
 
-(1) Clone este repositorio
+(1) Clone este repositorio  
 (2) En su .zshrc indique la ubicación del script a ejecutar
 
 ![levels0](https://user-images.githubusercontent.com/53159393/144648152-c3d4e408-0e6b-45fb-b7a7-04c3f6d38a05.png)
