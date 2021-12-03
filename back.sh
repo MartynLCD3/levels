@@ -27,9 +27,8 @@ function back() {
  msg="¿Cuántos niveles desea retroceder? ▸ "
  echo -ne ${msg}
  read msg
-
  resp=$(echo $msg | tr -dc '0-9')
-
+ 
  if [ "$resp" = "0" ]; then
   echo "\n${red}error${endColour}"
  else 
